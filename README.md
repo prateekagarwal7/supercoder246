@@ -1,7 +1,7 @@
 ### Hi there I AM PRATEEK 
 - 🔭 I’m currently working on C++
 - 🌱 I’m currently learning C++
-- 👯 I’m looking to collaborate on GOOGLE AMAZONE
+- 👯 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ANY THING 
 - 📫 How to reach me: ...
