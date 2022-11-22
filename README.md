@@ -1,12 +1,12 @@
 ### Hi there I AM PRATEEK 
-- 🔭 I’m currently working on C++
-- 🌱 I’m currently learning C++
-- 👯 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ANY THING 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 A python developer, knows a bit of app dev too
+- 🌱 I’m a data science enthusiast
+- 👯 Lookiing to colab with open source community to solve some real time problems
+- 🤔 If some looking to develop a full stack desktop application then pin me
+
+- 📫 Mail me at prateekagarwal246@gmail.com
+- 😄 Him/His
+- ⚡ The open source is all about conversing, learning and impleementing.
 
 <!--
 **supercoder246/supercoder246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
